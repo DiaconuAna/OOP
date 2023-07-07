@@ -3,7 +3,7 @@
 ## Laboratories
 
 - [Assignments 2-3](https://github.com/DiaconuAna/OOP/tree/main/A23)
-- [Assignment 4-5](https://github.com/DiaconuAna/A45_OOP)
-- [Assignment 6-7](https://github.com/DiaconuAna/A67_OOP)
-- [Assignment 8-9](https://github.com/DiaconuAna/A89_OOP)
+- [Assignments 4-5](https://github.com/DiaconuAna/OOP/tree/main/A45)
+- [Assignments 6-7](https://github.com/DiaconuAna/OOP/tree/main/A67)
+- [Assignments 8-9](https://github.com/DiaconuAna/OOP/tree/main/A89)
 - [Assignment 10 - Movie Manager](https://github.com/DiaconuAna/A10_OOP)
